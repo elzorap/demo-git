@@ -11,4 +11,3 @@ def cleanup(string):
 
 print(cleanup("  text de transformat"))
 print(cleanup("teST"))
-print(cleanup(" un text "))
