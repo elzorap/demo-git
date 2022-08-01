@@ -26,6 +26,4 @@ print(cleanup("  text de transformat"))
 print(cleanup("teST"))
 print(cleanup(" un text "))
 print(cleanup(" un text de schimbat in functia cleanup"))
-print(cleanup.__doc__)
-help(cleanup)
-help(add)
+
